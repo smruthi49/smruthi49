@@ -1,5 +1,6 @@
-<h2 align="center">Hi, I'm Smruthi</h2>
-<h3 align="center">Trying to be SWE by day, Data Scientist by night</h3>
+<h1 align="center">Hi! I'm Smruthi</h1>
+<h3 align="center">Aspiring to be SWE by day, Data Scientist by night</h3>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=smruthi49&color=8840fc" alt="induviduality" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
