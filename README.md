@@ -23,10 +23,17 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+-------
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages :</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40 /> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height=40 /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=40 />  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=40 />
+
+<h3 align="left">Tools :</h3>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=40 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height=40 />  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height=40 />
+
+
+-------
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smruthi49&show_icons=true&locale=en&layout=compact&theme=omni" alt="smruthi49" /></p>
 
