@@ -2,7 +2,7 @@
 <div align="justify">
 <!-- <h3 align="center">Aspiring to be SWE by day, Data Scientist by night</h3> -->
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=smruthi49&color=8840fc" alt="smruthi49" /> </p> -->
-
+<h3 align="center">
 <a href="[https://www.linkedin.com/in/rezshakeri/](https://linkedin.com/in/smruthi-balaji)">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
@@ -22,6 +22,16 @@
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</h3>
+
+<h3 align="center">An aspiring Data Scientist from India</h3>
+
+-------
+
+- I was a Software Engineering Intern (Summer 2024) at Microsoft 💻
+- I'm a GitHub Campus Expert 🚩
+- I'm currently learning Natural Language Processing & Deep Learning 📖
+- I'm looking for help with contributing to Open Source 🤝
 
 -------
 
