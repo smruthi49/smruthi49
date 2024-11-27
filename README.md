@@ -1,7 +1,5 @@
 <img src="https://github.com/smruthi49/smruthi49/blob/main/SMRUTHI%20balaji.gif" alt="Hi ! I'm Smruthi" width=100% height=50%  title="Hi ! I'm Smruthi"/>
 <div align="justify">
-<!-- <h3 align="center">Aspiring to be SWE by day, Data Scientist by night</h3> -->
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=smruthi49&color=8840fc" alt="smruthi49" /> </p> -->
 <h3 align="center">
 <a href="[https://www.linkedin.com/in/rezshakeri/](https://linkedin.com/in/smruthi-balaji)">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
