@@ -28,7 +28,7 @@
 
 - I was a Software Engineering Intern (Summer 2024) at Microsoft 💻
 - I'm a GitHub Campus Expert 🚩
-- I'm currently learning Natural Language Processing & Deep Learning 📖
+- I'm currently learning Speech Processing & Deep Learning 📖
 - I'm looking for help with contributing to Open Source 🤝
 
 -------
